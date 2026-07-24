@@ -127,7 +127,7 @@ Rewrites follow a no-fabrication rule: they never add facts, names, dates, or ci
 
 | # | Pattern | Before | After |
 |---|---------|--------|-------|
-| 7 | **AI vocabulary** | "Actually... additionally... testament... landscape... showcasing" | "also... remain common" |
+| 7 | **AI vocabulary** | "Actually... additionally... quietly... testament... landscape... showcasing" | "also... remain common" |
 | 8 | **Copula avoidance** | "serves as... features... boasts" | "is... has" |
 | 9 | **Negative parallelisms / tailing negations** | "It's not just X, it's Y", "..., no guessing" | State the point directly |
 | 10 | **Rule of three** | "innovation, inspiration, and insights" | Use natural number of items |
